@@ -1,1 +1,1 @@
-This repo is for the exercise at the end of the Patika.dev Web3 fundamentals.
+This repo is for the exercises for the tutorials at Patika.dev on Near Certified Developer Bootcamp.
