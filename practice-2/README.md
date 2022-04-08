@@ -1,1 +1,3 @@
-this project is generated using the tutorial at [patika.dev Near Dev. Course ](https://app.patika.dev/courses/near-developer-course/practice-II-4th-task).
+this project is generated using the tutorial at [patika Near Development Course ](https://app.patika.dev/courses/near-developer-course/practice-II-4th-task).
+
+proof of comletion can be found [here](https://explorer.testnet.near.org/transactions/2ThS6yGN4sGscVXPxeBTHHR3wFLbmJronkF5BiuHTYYP)
